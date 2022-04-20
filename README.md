@@ -1,4 +1,5 @@
 # simulation_collective_escape
+This repository contains codes for simulating crowd dynamics with the social force model and statistcal analysis of simualtion data, which is the source code of the publication https://pubs.rsc.org/en/content/articlelanding/2021/sm/d1sm00033k
 
 Process 1: produce the simulation data
 The codes for this part are put in the folder "SimulationProgram". 
